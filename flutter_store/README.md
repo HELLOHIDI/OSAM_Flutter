@@ -1,5 +1,20 @@
 # flutter_store
 
+## Description
+간단하게 flutter의 여러 위젯을 사용해보는 스토어 앱입니다.
+
+## Environment
+  개발환경 : Windows
+  
+  패키지 관리자 : pub
+  
+  사용 언어 & 버전
+  
+  ![Dart_badge](https://img.shields.io/badge/Dart-2.13-blue?logo=Dart)
+  ![Flutter_badge](https://img.shields.io/badge/Flutter-2.2.3-blue?logo=Flutter)
+
+
+## Prerequisite
 A new Flutter project created with [FlutLab](https://flutlab.io)
 
 ### Getting Started: FlutLab - Flutter Online IDE
@@ -22,3 +37,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Files
+
+### assets
+:앱에 사용되는 이미지를 담는 폴더
+
+### main
+:메인 폴더
+
+![image](https://user-images.githubusercontent.com/54922625/131215054-0c17b46f-be35-40b8-a44f-bad74688b2f9.png)
