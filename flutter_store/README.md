@@ -50,3 +50,13 @@ samples, guidance on mobile development, and a full API reference.
 :메인 폴더
 
 ![image](https://user-images.githubusercontent.com/54922625/131215054-0c17b46f-be35-40b8-a44f-bad74688b2f9.png)
+
+
+
+## What I Learned
+- <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge'>Flutter Structure</a>
+- <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-2-Row-Column-Widget'>Row & Column Widget</a>
+- <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-3-Image-Widget'>Image Widget</a>
+- <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-4-SafeArea-Spacer-SizedBox-Widget'>SafeArea & Spacer & SizedBox Widget</a>
+- <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-5-Padding-Expanded-Widget'>Text Widget</a>
+- <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-6-Text-Widet'>Padding & Expanded Widget</a>
