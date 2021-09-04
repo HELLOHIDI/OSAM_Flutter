@@ -63,9 +63,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## what I learned
-  - AppBar
-  - Container 
-  - Icon
-  - ClipRRect
-  - AspectRatio
-  - ListView
+  - <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-7-AppBar-Widget'>AppBar</a>
+  - <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-9-Container-Widget'>Container</a> 
+  - <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-8-Icon-Widget'>Icon</a>
+  - <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-11-AspectRatio-ClipRRect-Widget'>ClipRRect</a>
+  - <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-11-AspectRatio-ClipRRect-Widget'>AspectRatio</a>
+  - <a href='https://velog.io/@hello_hidi/HIDI-Flutter-Challenge-10-ListView-Widget'>ListView</a>
